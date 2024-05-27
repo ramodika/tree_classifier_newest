@@ -1,0 +1,1 @@
+I assumed that the project structure follows a certain convention, and I included sections explaining the purpose of the project, how to use it, dependencies, and an example of making predictions with the trained model. Make sure to adjust it according to your project's specifics.
